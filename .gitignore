@@ -1,3 +1,4 @@
 sources/
 *.exe
 *.bak
+zlibwapi.dll
