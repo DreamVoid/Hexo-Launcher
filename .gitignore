@@ -1,6 +1,7 @@
 sources/
 .minecraft/
 log/
+conf/
 *.exe
 *.bak
 zlibwapi.dll
