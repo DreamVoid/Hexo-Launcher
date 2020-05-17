@@ -1,5 +1,7 @@
 # Hexo Launcher
-Hexo 启动器是由 DreamVoid 个人开发的一款第三方 Minecraft 启动器，依照 GPL v3 协议开源发布。目前仍在开发中，欢迎围观。
+Hexo 启动器是由 DreamVoid 个人开发的一款第三方 Minecraft 启动器，依照 GPL v3 协议开源发布。
+
+目前仍在开发中，欢迎围观。
 
 ## 仓库地址
 为保证中国大陆地区访问速度，我部署了多个镜像仓库。以下是所有仓库的地址：
